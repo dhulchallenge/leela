@@ -1,0 +1,9 @@
+D:\Tesco\CarRentals\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\Tesco\CarRentals\Domain\bin\Debug\Domain.dll
+D:\Tesco\CarRentals\Domain\bin\Debug\Domain.pdb
+D:\Tesco\CarRentals\Domain\bin\Debug\CarRentals.Contract.dll
+D:\Tesco\CarRentals\Domain\bin\Debug\Lokad.Cqrs.Portable.dll
+D:\Tesco\CarRentals\Domain\bin\Debug\CarRentals.Contract.pdb
+D:\Tesco\CarRentals\Domain\bin\Debug\Lokad.Cqrs.Portable.pdb
+D:\Tesco\CarRentals\Domain\obj\Debug\Domain.dll
+D:\Tesco\CarRentals\Domain\obj\Debug\Domain.pdb

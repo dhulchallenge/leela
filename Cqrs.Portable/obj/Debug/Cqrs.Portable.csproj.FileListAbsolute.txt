@@ -1,0 +1,8 @@
+D:\Tesco\lokad-cqrs-master\Cqrs.Portable\bin\Debug\Lokad.Cqrs.Portable.dll
+D:\Tesco\lokad-cqrs-master\Cqrs.Portable\bin\Debug\Lokad.Cqrs.Portable.pdb
+D:\Tesco\lokad-cqrs-master\Cqrs.Portable\obj\Debug\Lokad.Cqrs.Portable.dll
+D:\Tesco\lokad-cqrs-master\Cqrs.Portable\obj\Debug\Lokad.Cqrs.Portable.pdb
+D:\Tesco\CarRentals\Cqrs.Portable\bin\Debug\Lokad.Cqrs.Portable.dll
+D:\Tesco\CarRentals\Cqrs.Portable\bin\Debug\Lokad.Cqrs.Portable.pdb
+D:\Tesco\CarRentals\Cqrs.Portable\obj\Debug\Lokad.Cqrs.Portable.dll
+D:\Tesco\CarRentals\Cqrs.Portable\obj\Debug\Lokad.Cqrs.Portable.pdb

@@ -1,0 +1,5 @@
+D:\Tesco\CarRentals\CarRentals.Contract\bin\Debug\CarRentals.Contract.dll
+D:\Tesco\CarRentals\CarRentals.Contract\bin\Debug\CarRentals.Contract.pdb
+D:\Tesco\CarRentals\CarRentals.Contract\obj\Debug\CarRentals.Contract.dll
+D:\Tesco\CarRentals\CarRentals.Contract\obj\Debug\CarRentals.Contract.pdb
+D:\Tesco\CarRentals\CarRentals.Contract\obj\Debug\CarRentals.Contract.csprojResolveAssemblyReference.cache
