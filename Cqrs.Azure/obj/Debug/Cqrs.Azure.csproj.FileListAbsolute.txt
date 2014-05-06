@@ -18,3 +18,12 @@ D:\Tesco\CarRentals\Cqrs.Azure\bin\Debug\Microsoft.WindowsAzure.StorageClient.xm
 D:\Tesco\CarRentals\Cqrs.Azure\obj\Debug\Cqrs.Azure.csprojResolveAssemblyReference.cache
 D:\Tesco\CarRentals\Cqrs.Azure\obj\Debug\Lokad.Cqrs.Azure.dll
 D:\Tesco\CarRentals\Cqrs.Azure\obj\Debug\Lokad.Cqrs.Azure.pdb
+D:\GitHub\leela\Cqrs.Azure\bin\Debug\Lokad.Cqrs.Azure.dll
+D:\GitHub\leela\Cqrs.Azure\bin\Debug\Lokad.Cqrs.Azure.pdb
+D:\GitHub\leela\Cqrs.Azure\bin\Debug\Lokad.Cqrs.Portable.dll
+D:\GitHub\leela\Cqrs.Azure\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\GitHub\leela\Cqrs.Azure\bin\Debug\Lokad.Cqrs.Portable.pdb
+D:\GitHub\leela\Cqrs.Azure\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+D:\GitHub\leela\Cqrs.Azure\obj\Debug\Cqrs.Azure.csprojResolveAssemblyReference.cache
+D:\GitHub\leela\Cqrs.Azure\obj\Debug\Lokad.Cqrs.Azure.dll
+D:\GitHub\leela\Cqrs.Azure\obj\Debug\Lokad.Cqrs.Azure.pdb

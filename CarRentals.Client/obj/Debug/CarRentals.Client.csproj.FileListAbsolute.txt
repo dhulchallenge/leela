@@ -7,3 +7,12 @@ D:\Tesco\CarRentals\CarRentals.Client\bin\Debug\CarRentals.Contract.pdb
 D:\Tesco\CarRentals\CarRentals.Client\bin\Debug\Lokad.Cqrs.Portable.pdb
 D:\Tesco\CarRentals\CarRentals.Client\obj\Debug\CarRentals.Client.dll
 D:\Tesco\CarRentals\CarRentals.Client\obj\Debug\CarRentals.Client.pdb
+D:\GitHub\leela\CarRentals.Client\bin\Debug\CarRentals.Client.dll
+D:\GitHub\leela\CarRentals.Client\bin\Debug\CarRentals.Client.pdb
+D:\GitHub\leela\CarRentals.Client\bin\Debug\CarRentals.Contract.dll
+D:\GitHub\leela\CarRentals.Client\bin\Debug\Lokad.Cqrs.Portable.dll
+D:\GitHub\leela\CarRentals.Client\bin\Debug\CarRentals.Contract.pdb
+D:\GitHub\leela\CarRentals.Client\bin\Debug\Lokad.Cqrs.Portable.pdb
+D:\GitHub\leela\CarRentals.Client\obj\Debug\CarRentals.Client.csprojResolveAssemblyReference.cache
+D:\GitHub\leela\CarRentals.Client\obj\Debug\CarRentals.Client.dll
+D:\GitHub\leela\CarRentals.Client\obj\Debug\CarRentals.Client.pdb

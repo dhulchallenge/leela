@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentals", "CarRentals\CarRentals.csproj", "{537EBF49-8446-42C2-BFA4-EB0704AA7FB1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentals.Contract", "CarRentals.Contract\CarRentals.Contract.csproj", "{23832D19-3AA5-4692-8778-590CB2EE8DE7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentals.Domain", "Domain\CarRentals.Domain.csproj", "{4449D457-4360-46EB-B0CE-3206DD6DDF80}"
@@ -25,10 +23,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{537EBF49-8446-42C2-BFA4-EB0704AA7FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{537EBF49-8446-42C2-BFA4-EB0704AA7FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{537EBF49-8446-42C2-BFA4-EB0704AA7FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{537EBF49-8446-42C2-BFA4-EB0704AA7FB1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{23832D19-3AA5-4692-8778-590CB2EE8DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{23832D19-3AA5-4692-8778-590CB2EE8DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23832D19-3AA5-4692-8778-590CB2EE8DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU

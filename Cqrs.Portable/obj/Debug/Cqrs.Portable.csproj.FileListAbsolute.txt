@@ -6,3 +6,8 @@ D:\Tesco\CarRentals\Cqrs.Portable\bin\Debug\Lokad.Cqrs.Portable.dll
 D:\Tesco\CarRentals\Cqrs.Portable\bin\Debug\Lokad.Cqrs.Portable.pdb
 D:\Tesco\CarRentals\Cqrs.Portable\obj\Debug\Lokad.Cqrs.Portable.dll
 D:\Tesco\CarRentals\Cqrs.Portable\obj\Debug\Lokad.Cqrs.Portable.pdb
+D:\GitHub\leela\Cqrs.Portable\bin\Debug\Lokad.Cqrs.Portable.dll
+D:\GitHub\leela\Cqrs.Portable\bin\Debug\Lokad.Cqrs.Portable.pdb
+D:\GitHub\leela\Cqrs.Portable\obj\Debug\Cqrs.Portable.csprojResolveAssemblyReference.cache
+D:\GitHub\leela\Cqrs.Portable\obj\Debug\Lokad.Cqrs.Portable.dll
+D:\GitHub\leela\Cqrs.Portable\obj\Debug\Lokad.Cqrs.Portable.pdb
